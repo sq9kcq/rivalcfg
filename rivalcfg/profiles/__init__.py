@@ -26,7 +26,7 @@ mice_profiles = [
     rival300csgohyperbeastedition,
     rival300dota2edition,
     rival300hpomen,
-    rival300vaulttec111
+    rival300vaulttec111,
     rival310,
     rival500,
     rival600,
