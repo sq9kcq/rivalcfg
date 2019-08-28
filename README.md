@@ -20,6 +20,7 @@ Supported mice:
 * SteelSeries Rival 300 CS:GO Fade Edition _(1038:1394)_
 * SteelSeries Rival 300 CS:GO Hyperbeast Edition _(1038:171a)_
 * SteelSeries Rival 300 Dota 2 Edition _(1038:1392)_
+* SteelSeries Rival 300 Fallout 4 Vault Tec 111 Edition _(1038:1712)_
 * SteelSeries Rival 300 HP Omen Edition _(1038:1718)_
 * SteelSeries Heroes of the Storm (Sensei Raw) _(1038:1390)_
 * SteelSeries Kana V2 _(1038:137a)_
