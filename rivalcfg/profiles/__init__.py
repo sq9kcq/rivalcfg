@@ -4,6 +4,7 @@ from .rival100 import rival100
 from .rival105 import rival105
 from .rival100dota2edition import rival100dota2edition
 from .rival110 import rival110
+from .rival3 import rival3
 from .rival300 import rival300
 from .rival300acerpredator import rival300acerpredator
 from .rival300csgofadeedition import rival300csgofadeedition
@@ -30,6 +31,7 @@ mice_profiles = [
     rival105,
     rival100dota2edition,
     rival110,
+    rival3,
     rival300,
     rival300acerpredator,
     rival300csgofadeedition,
